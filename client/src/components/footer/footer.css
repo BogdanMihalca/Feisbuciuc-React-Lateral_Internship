@@ -1,0 +1,10 @@
+.bottom-nav {
+  background-color: #206a5d !important;
+}
+.item-bottom {
+  color: white !important;
+}
+
+.active {
+  color: #ffcc29 !important;
+}

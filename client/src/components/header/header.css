@@ -1,0 +1,26 @@
+.user-image {
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  margin: 10px;
+  border-radius: 50%;
+}
+.search-field {
+  margin: 10px;
+}
+.right-menu {
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+}
+.logo-header {
+  width: 30px !important;
+}
+.top-nav {
+  background-color: #206a5d !important;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px !important;
+}
+.username {
+  margin: 0;
+  color: #ffcc29;
+}

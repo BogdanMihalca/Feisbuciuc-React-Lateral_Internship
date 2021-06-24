@@ -1,0 +1,32 @@
+.image-post img {
+  width: 100%;
+}
+.my-post-card {
+  width: 100% !important;
+  max-width: 500px !important;
+  margin: 24px auto !important;
+}
+.my-post-card .extra {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid gray;
+}
+.post-author {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.post-author img {
+  width: 50px;
+}
+.post-author h3 {
+  margin: 0 20px;
+  display: inline-block;
+}
+.post-date {
+  margin-top: 0;
+  margin-left: 70px;
+}
+.description {
+  margin: 20px 10px !important;
+}
